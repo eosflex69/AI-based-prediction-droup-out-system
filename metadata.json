@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Student Early-Warning & Counseling Dashboard",
+  "description": "An AI-powered dashboard for educators to identify at-risk students. Upload attendance, test score, and fee data to compute risk scores, view trends, and generate AI-driven counseling messages for timely intervention.",
+  "requestFramePermissions": []
+}
